@@ -39,21 +39,6 @@ The Financial Management System is a comprehensive application developed using n
 3. **Akses Aplikasi:**
    - Buka aplikasi melalui browser dengan mengakses URL yang sesuai dengan direktori tempat aplikasi disimpan.
 
-4. **Login:**
-   - Login menggunakan akun yang telah dibuat.
-     Informasi Akun
-     
-     Login Awal
-     Username : User
-     Password : Password
-     
-     Login Admin
-     Username: admin
-     Password: admin123
-
-     Login Manajemen
-     Username: manajemen
-     Password: manajemen123
 
 5. **Kelola Sekarang Keuangan Perusahaan:**
    - Setelah login, mulailah mencatat transaksi, mengelola kategori, dan memanfaatkan fitur lainnya.
