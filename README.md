@@ -1,8 +1,8 @@
-# Sistem Manajemen Keuangan
+# Financial Reporting Information System
 
 ## Deskripsi
 
-Sistem Manajemen Keuangan adalah aplikasi sederhana yang dibangun menggunakan PHP natif untuk membantu pengguna dalam mengelola keuangan. Aplikasi ini dirancang untuk memudahkan pencatatan pengeluaran dan pemasukan, serta menyediakan berbagai fitur lainnya yang membantu dalam perencanaan keuangan pribadi.
+The Financial Management System is a comprehensive application developed using native PHP to support accounting firms in managing financial records efficiently. This system is designed to streamline the recording of transactions, including revenues and expenses, while providing essential features to enhance financial reporting, analysis, and decision-making for businesses.
 
 ## Fitur Utama
 
@@ -19,6 +19,7 @@ Sistem Manajemen Keuangan adalah aplikasi sederhana yang dibangun menggunakan PH
 
 4. **Keamanan:**
    - Sistem menyediakan keamanan dengan login dan otentikasi pengguna.
+   - Sistem melakukan login 2 kali sebelum masuk ke tiap bidang kerja dengan API
 
 ## Persyaratan Sistem
 
@@ -41,7 +42,11 @@ Sistem Manajemen Keuangan adalah aplikasi sederhana yang dibangun menggunakan PH
 4. **Login:**
    - Login menggunakan akun yang telah dibuat.
      Informasi Akun
-
+     
+     Login Awal
+     Username : User
+     Password : Password
+     
      Login Admin
      Username: admin
      Password: admin123
@@ -50,9 +55,5 @@ Sistem Manajemen Keuangan adalah aplikasi sederhana yang dibangun menggunakan PH
      Username: manajemen
      Password: manajemen123
 
-5. **Mulai Mengelola Keuangan:**
+5. **Kelola Sekarang Keuangan Perusahaan:**
    - Setelah login, mulailah mencatat transaksi, mengelola kategori, dan memanfaatkan fitur lainnya.
-
-## Pengembangan dan Kontribusi
-
-Jika Anda ingin berkontribusi pada pengembangan sistem ini, silakan kirimkan *pull request* dan laporkan *issue* di repositori ini.
